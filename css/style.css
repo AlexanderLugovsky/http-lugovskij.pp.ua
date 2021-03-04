@@ -1,0 +1,36 @@
+.h1,
+h1 {
+	z-index: 20;
+	margin: 10px;
+	color: white;
+	font-size: 30px;
+	position: relative;
+	text-align: center;
+	width: 100%;
+}
+.ul,
+ul,
+.ol,
+ol {
+	z-index: 20;
+	padding: 20px;
+	margin: 20px;
+	border: 1px white ;
+	color: white;
+	font-size: 30px;
+	position: relative;
+	text-align: left;
+	width: 100%; 
+}
+li{
+	color:rgb(126, 104, 246) ;
+	font-style: oblique;
+}
+a{
+	color:rgb(126, 104, 246);
+	font-style: oblique;
+	text-decoration: underline;
+}
+body {
+	background-color: black;
+}
